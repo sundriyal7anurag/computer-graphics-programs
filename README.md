@@ -1,22 +1,22 @@
 # computer-graphics-programs
-Code to draw a triangle
+1. Code to draw a triangle
 
-Creating a polygon
+2. Creating a polygon
 
-Creating line loop
+3. Creating line loop
 
-Creating a linestrip
+4. Creating a linestrip
 
-Creating a Triangle Fan
+5. Creating a Triangle Fan
 
-Creating a triangle strip
+6. Creating a triangle strip
 
-Self rotating triangle
+7. Self rotating triangle
 
-Key press rotation
+8. Key press rotation
 
-Self rotating polygon
+9. Self rotating polygon
 
-Self rotating cube
+10. Self rotating cube
 
-Beizer Curve
+11. Beizer Curve
